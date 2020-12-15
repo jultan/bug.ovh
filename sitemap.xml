@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://bug.ovh/posts/my-first-post/</loc>
+    <lastmod>2020-12-15T23:10:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bug.ovh/</loc>
+    <lastmod>2020-12-15T23:10:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bug.ovh/posts/</loc>
+    <lastmod>2020-12-15T23:10:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bug.ovh/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bug.ovh/tags/</loc>
+  </url>
+  
+</urlset>
