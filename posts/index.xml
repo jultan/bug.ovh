@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on openBsd User Group</title>
+    <title>Posts on bug.ovh</title>
     <link>https://bug.ovh/posts/</link>
-    <description>Recent content in Posts on openBsd User Group</description>
+    <description>Recent content in Posts on bug.ovh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Dec 2020 23:10:26 +0100</lastBuildDate><atom:link href="https://bug.ovh/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Dec 2020 23:25:04 +0100</lastBuildDate><atom:link href="https://bug.ovh/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://bug.ovh/posts/my-first-post/</link>
-      <pubDate>Tue, 15 Dec 2020 23:10:26 +0100</pubDate>
+      <title>Introduction</title>
+      <link>https://bug.ovh/posts/introduction/</link>
+      <pubDate>Tue, 15 Dec 2020 23:25:04 +0100</pubDate>
       
-      <guid>https://bug.ovh/posts/my-first-post/</guid>
-      <description></description>
+      <guid>https://bug.ovh/posts/introduction/</guid>
+      <description>Nothing to share in particular for the moment</description>
     </item>
     
   </channel>
